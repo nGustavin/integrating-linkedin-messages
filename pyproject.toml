@@ -7,6 +7,7 @@ authors = ["ngustavin <contact.gustaf@protonmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 linkedin-api = "~=2.0.0a"
+pandas = "^1.5.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
